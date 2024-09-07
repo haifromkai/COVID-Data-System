@@ -14,7 +14,7 @@
 # About the Project
 Name: COVID Data System <br>
 Started: 8/07/24 <br>
-Description: <br>
+Description: a multi-tiered application to process and visualize COVID-19 datasets, giving insight on population impacts across regions <br>
 
 # Built With
 <a href="https://java.com/en/">
