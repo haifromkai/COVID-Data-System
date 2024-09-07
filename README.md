@@ -6,7 +6,7 @@
     <ol>
         <li><a href = "#about-the-project">About the Project</a></li>
         <li><a href = "#built-with">Built With</a></li>
-        <li><a href = "#how-to-use">Features</a></li>
+        <li><a href = "#how-to-use">How To Use</a></li>
         <li><a href = "#contact">Contact</a></li>
     </ol>
 </details>
