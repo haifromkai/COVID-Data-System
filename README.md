@@ -24,19 +24,19 @@ Description: a multi-tiered application to process and visualize COVID-19 datase
 # How To Use
 ### 1. Gather datasets
 There are three datasets needed for this program. <br>
-a. COVID data <br>
-Must be stored in a .CSV or .JSON file type. <br>
-Columns as follows... <br>
+a. COVID data (stored in a .CSV or .JSON file type) <br>
+![Screenshot 2024-09-07 at 12 43 14 PM](https://github.com/user-attachments/assets/bbfc7196-3d2d-4ecc-b64d-03e8219db93c)
 
-b. Population data <br>
-Must be stored in a .CSV file type. <br>
-Columns as follows... <br>
 
-c. Properties data <br>
-Must be stored in a .CSV file type. <br>
-Columns as follows... <br>
+b. Population data (stored in a .CSV file type) <br>
+![Screenshot 2024-09-07 at 12 46 10 PM](https://github.com/user-attachments/assets/28285596-dba9-450e-8176-cb2823733ea5)
 
-Example datasets are here for download in this repository:
+
+c. Properties data (stored in a .CSV file type) <br>
+![Screenshot 2024-09-07 at 12 48 07 PM](https://github.com/user-attachments/assets/c73c955e-5d13-495e-a043-7b9b1a58af67)
+
+
+Example datasets gathered from OpenDataPhilly are here for download in this repository:
 
 ![Screenshot 2024-09-07 at 2 42 54 AM copy](https://github.com/user-attachments/assets/527b286f-410e-405d-a751-127fb53617e1)
 
@@ -102,6 +102,7 @@ Note: Timestamps are in Unix epoch time, the number of milliseconds that have el
 # Contact
 Feel free to leave suggestions or ask questions about any part of the project! <br>
 Kai Fang - (haifromkai.tech@gmail.com) <br>
-Project Link: https://github.com/haifromkai/to-do-app
+Project Link: https://github.com/haifromkai/COVID-Data-System
+
 
 <p align = "right">(<a href = "#readme-top">back to top</a>)</p>
